@@ -1,1 +1,1 @@
-# Excel-VBA-Auto-Email-sent-from-Excel-
+Excel VBA - Send Auto Email from Excel
